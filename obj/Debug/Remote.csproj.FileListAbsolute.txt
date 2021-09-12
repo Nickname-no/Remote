@@ -1,0 +1,17 @@
+C:\Users\Nick Petrenko\source\repos\Remote\bin\Debug\Remote.exe.config
+C:\Users\Nick Petrenko\source\repos\Remote\bin\Debug\Remote.exe
+C:\Users\Nick Petrenko\source\repos\Remote\bin\Debug\Remote.pdb
+C:\Users\Nick Petrenko\source\repos\Remote\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.csproj.AssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\MainWindow.g.cs
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\App.g.cs
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote_MarkupCompile.cache
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote_MarkupCompile.lref
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\MainWindow.baml
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.g.resources
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.Properties.Resources.resources
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.csproj.GenerateResource.cache
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.csproj.CopyComplete
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.exe
+C:\Users\Nick Petrenko\source\repos\Remote\obj\Debug\Remote.pdb
